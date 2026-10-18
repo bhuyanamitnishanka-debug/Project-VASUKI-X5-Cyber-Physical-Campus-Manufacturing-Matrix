@@ -1,0 +1,6 @@
+{
+  "name": "Project-VASUKI-X5: Cyber-Physical Campus & Manufacturing Matrix",
+  "description": "Interactive command center, architectural digital twin, operational telemetry console, and TOT investor showcase for Vasuki-Indicus-Anusandhan-AI-Lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
